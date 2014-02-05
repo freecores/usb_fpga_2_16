@@ -1,4 +1,4 @@
-DIRS=all usb-fpga-1.2 usb-1.0 usb-fpga-1.11 usb-xmega-1.0 usb-fpga-1.15 usb-fpga-1.15y usb-fpga-2.16
+DIRS=all usb-fpga-1.2 usb-1.0 usb-fpga-1.11 usb-xmega-1.0 usb-fpga-1.15 usb-fpga-1.15y usb-fpga-2.16 usb-fpga-2.13
 
 .PHONY: default all clean distclean avr avrclean avrdistclean
 

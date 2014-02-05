@@ -1,6 +1,6 @@
-/*!2
-   ucecho -- uppercase conversion example for ZTEX USB-FPGA Module 1.15b
-   Copyright (C) 2009-2011 ZTEX GmbH.
+/*!
+   ucecho -- uppercase conversion example for ZTEX USB-FPGA Module 1.15b and 1.15y2
+   Copyright (C) 2009-2014 ZTEX GmbH.
    http://www.ztex.de
 
    This program is free software; you can redistribute it and/or modify

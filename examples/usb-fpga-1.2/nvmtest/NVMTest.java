@@ -1,6 +1,6 @@
 /*!
-   nvmtest -- ATxmega non volatile memory test
-   Copyright (C) 2009-2010 ZTEX e.K.
+   nvmtest -- ATxmega non volatile memory test on ZTEX USB-FPGA Modules 1.2 plus Experimental Board 1.10
+   Copyright (C) 2009-2014 ZTEX GmbH.
    http://www.ztex.de
 
    This program is free software; you can redistribute it and/or modify

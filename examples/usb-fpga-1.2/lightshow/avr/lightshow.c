@@ -1,6 +1,6 @@
 /*!
    lightshow -- lightshow on Experimental Board 1.10
-   Copyright (C) 2009-2010 ZTEX e.K.
+   Copyright (C) 2009-2014 ZTEX GmbH
    http://www.ztex.de
 
    This program is free software; you can redistribute it and/or modify

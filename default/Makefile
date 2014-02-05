@@ -1,6 +1,6 @@
-DIRS=usb-fpga-1.15 usb-fpga-1.15y usb-fpga-2.16
+DIRS=usb-fpga-1.15 usb-fpga-1.15y usb-fpga-2.16 usb-fpga-2.13
 
-.PHONY: default all clean distclean avr avrclean avrdistclean
+.PHONY: default all clean distclean
 
 default: 
 	@echo "This makefile is intended to clean up the project or to build all examples"
@@ -14,12 +14,3 @@ clean:
 
 distclean:
 	set -e; for i in $(DIRS); do make -C $$i distclean; done
-
-avr: 
-	set -e; for i in $(DIRS); do make -C $$i avr; done
-
-avrclean: 
-	set -e; for i in $(DIRS); do make -C $$i avrclean; done
-
-avrdistclean: 
-	set -e; for i in $(DIRS); do make -C $$i avrdistclean; done

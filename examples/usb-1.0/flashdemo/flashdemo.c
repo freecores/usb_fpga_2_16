@@ -1,6 +1,6 @@
 /*!
    flashdemo -- demo for Flash memory access from firmware and host software for ZTEX USB Module 1.0
-   Copyright (C) 2009-2011 ZTEX GmbH.
+   Copyright (C) 2009-2014 ZTEX GmbH.
    http://www.ztex.de
 
    This program is free software; you can redistribute it and/or modify

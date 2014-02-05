@@ -1,6 +1,6 @@
 /*!
-   memtest -- DDR2 SDRAM FIFO for testing memory on ZTEX USB-FPGA Module 1.15b
-   Copyright (C) 2009-2011 ZTEX GmbH.
+   memtest -- DDR2 SDRAM FIFO for testing memory on ZTEX USB-FPGA Module 1.15a
+   Copyright (C) 2009-2014 ZTEX GmbH.
    http://www.ztex.de
 
    This program is free software; you can redistribute it and/or modify

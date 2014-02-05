@@ -1,16 +1,15 @@
-flashdemo
----------
+default
+-------
 
-This example demonstrates how data can be read and written to/from the
-Flash memory.
+This is the default firmware for ZTEX USB-FPGA Modules 2.13a, 2.13b,
+2.13c and 2.13d. It supports:
 
-During the start-up the firmware (defined in flashdemo.c) reads the
-number of last sector n from sector 0 (dword at position 0) and
-increments it by one. If n is larger than or equal to the total amount
-of sectors, or if it is equal to 0, n is set to 1.
+* Firmware uploading 
+* High speed FPGA configuration via USB 
+* Storage of firmware and bitstream in non-volatile memory
+* Configuration data: Storage of device settings in MAC-EEPROM
 
-Then n is written back to sector 0 and sector n is filled with the
-string "Hello World!".
-
-The host software (defined in FlashDemo.java) reads out the string from
-the last sector of the flash memory.
+The upload utility Default.java creates the configuration data structure
+in MAC-EEPROM and can be used to upload the default firmware to EEPROM.
+The wrapper scripts prog-*.sh can be used to do that for the respective
+FPGA Board.

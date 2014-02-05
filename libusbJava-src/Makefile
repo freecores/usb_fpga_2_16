@@ -1,5 +1,5 @@
 # Makefile for libusbJava, a Java libusb wrapper
-# Copyright (C) 2009-2011 ZTEX GmbH
+# Copyright (C) 2009-2014 ZTEX GmbH
 # http://www.ztex.de
 #
 # This Makefile ia a part of the reorganized version of the libusbJava source tree

@@ -1,6 +1,6 @@
 /*!
-   standalone -- standalone firmware that supports FPGA configuration from Flash firmware loading from EEPROM for ZTEX USB-FPGA Module 1.11
-   Copyright (C) 2009-2011 ZTEX GmbH.
+   standalone -- standalone firmware that supports FPGA configuration from Flash firmware loading from EEPROM for ZTEX USB-FPGA Modules 1.11
+   Copyright (C) 2009-2014 ZTEX GmbH.
    http://www.ztex.de
 
    This program is free software; you can redistribute it and/or modify

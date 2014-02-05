@@ -1,6 +1,6 @@
 /*!
-   Firmware / Bitstream loader for the ZTEX EZ-USB FX2 SDK
-   Copyright (C) 2009-2011 ZTEX GmbH.
+   DeviceServer for the ZTEX USB-FPGA Modules
+   Copyright (C) 2009-2014 ZTEX GmbH.
    http://www.ztex.de
 
    This program is free software; you can redistribute it and/or modify

@@ -1,6 +1,6 @@
 /*!
-   flashbench -- Flash memory benchmark for ZTEX USB-FPGA Module 1.15
-   Copyright (C) 2009-2011 ZTEX GmbH.
+   flashbench -- Flash memory benchmark for ZTEX USB-FPGA Modules 2.16
+   Copyright (C) 2009-2014 ZTEX GmbH.
    http://www.ztex.de
 
    This program is free software; you can redistribute it and/or modify

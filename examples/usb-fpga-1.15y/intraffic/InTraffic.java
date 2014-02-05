@@ -1,6 +1,6 @@
 /*!
-   intraffic -- example showing how the EZ-USB FIFO interface is used on ZTEX USB-FPGA Module 1.15b
-   Copyright (C) 2009-2011 ZTEX GmbH.
+   intraffic -- example showing how the EZ-USB FIFO interface is used on ZTEX USB-FPGA Module 1.15y and 1.15y2
+   Copyright (C) 2009-2014 ZTEX GmbH.
    http://www.ztex.de
 
    This program is free software; you can redistribute it and/or modify
